@@ -12,4 +12,6 @@
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mluziana&layout=compact)](https://github.com/Mluziana/github-readme-stats)
 
